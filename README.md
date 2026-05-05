@@ -1,4 +1,4 @@
-# Hi, I'm Mathusan SIVASUTHAN
+# Hi, I'm Danny MITH
 
  Computer Science apprentice at Université Gustave Eiffel  
  Passionate developer focused on building practical and efficient solutions  
@@ -61,16 +61,16 @@
 
 ## 📊 GitHub Stats
 
-![Mathusan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SM4TH13&show_icons=true&theme=radical)
+![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taisho21&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SM4TH13&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taisho21&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contact
 
-📧 **Email:** mathusan1302@gmail.com  
-📍 **Location:** Rosny-sous-Bois, France  
+📧 **Email:** danny.mith21@gmail.com  
+📍 **Location:** Île-de-France, France  
 
 ---
 

@@ -31,7 +31,7 @@
 
 ### Full-Stack Web Development
 - **Website Creation**  
-  Developed two full web applications with database integration, frontend UI, and backend logic  
+  Developed one full web applications with database integration, frontend UI, and backend logic  
 
 - **Database Management**  
   Designed and implemented relational databases using PostgreSQL  
@@ -41,13 +41,13 @@
 
 ### Software & Game Development
 - **Rolit (Python)**  
-  Strategic board game with AI bots (two difficulty levels)  
+  Strategic board game 
 
 - **Map Maker (Python)**  
-  Map design tool using automated filling algorithms and file manipulation  
+  Map design tool using automated filling algorithms(backtracking) and file manipulation  
 
-- **Word Counter (C)**  
-  CLI utility to analyze word frequency in text files  
+- **Word Counter (C, Python)**  
+  C utility to analyze word frequency in text files + analyse performance xith matplotlib
 
 ---
 

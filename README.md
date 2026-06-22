@@ -57,13 +57,7 @@
 - Communication & active listening  
 - Organization and rigor  
 
----
 
-## 📊 GitHub Stats
-
-![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taisho21&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taisho21&layout=compact&theme=radical)
 
 ---
 

@@ -1,71 +1,62 @@
-# Hi, I'm Danny MITH
+# Salut, moi c'est Danny MITH
 
- Computer Science apprentice at Université Gustave Eiffel  
- Passionate developer focused on building practical and efficient solutions  
- Continuously improving my technical skills while contributing to team projects  
+Apprenti en Informatique à l'Université Gustave Eiffel
 
----
+Développeur passionné, axé sur la création de solutions pratiques et efficaces
 
-## Technical Skills
-
-**Programming Languages**  
-- Python  
-- C  
-
-**Web Development**  
-- HTML, CSS, JavaScript  
-- FastAPI, Flask  
-
-**Databases**  
-- SQL, PostgreSQL  
-
-**Systems**  
-- Windows, Linux, macOS  
-
-**Tools**  
-- Microsoft Office Suite (Excel, PowerPoint)  
+En recherche constante d'amélioration de mes compétences techniques tout en contribuant aux projets d'équipe
 
 ---
 
-## Projects
+## Compétences Techniques
 
-### Full-Stack Web Development
-- **Website Creation**  
-  Developed one full web applications with database integration, frontend UI, and backend logic  
+**Langages de programmation** 
+* Python
+* C
 
-- **Database Management**  
-  Designed and implemented relational databases using PostgreSQL  
+**Développement Web** - HTML, CSS, JavaScript
 
-- **Architecture**  
-  Built interfaces with HTML/CSS and deployed backend services using Python & Flask  
+* Flask, FastAPI
 
-### Software & Game Development
-- **Rolit (Python)**  
-  Strategic board game 
+**Bases de données** - SQL, PostgreSQL
 
-- **Map Maker (Python)**  
-  Map design tool using automated filling algorithms(backtracking) and file manipulation  
+**Systèmes** - Windows, Linux, macOS
 
-- **Word Counter (C, Python)**  
-  C utility to analyze word frequency in text files + analyse performance xith matplotlib
+**Outils** - Suite Microsoft Office (Excel, PowerPoint)
 
 ---
 
-## Soft Skills
+## Projets
 
-- Teamwork  
-- Communication & active listening  
-- Organization and rigor  
+### Développement Web Full-Stack
 
+* **Création de sites web** Développement d'une application web complète avec intégration de base de données, interface utilisateur (frontend) et logique métier (backend).
+* **Gestion de bases de données** Conception et implémentation de bases de données relationnelles avec PostgreSQL.
+* **Architecture** Construction d'interfaces avec HTML/CSS et déploiement de services backend en Python & Flask.
 
+### Développement Logiciel & Jeux
+
+* **Rolit (Python)** Jeu de société stratégique.
+* **Map Maker (Python)** Outil de création de cartes utilisant des algorithmes de remplissage automatique (backtracking) et de la manipulation de fichiers.
+* **Word Counter (C, Python)** Utilitaire en C pour analyser la fréquence des mots dans des fichiers texte + analyse des performances avec Matplotlib.
+*  **Analyse de complexité arbre binaire de recherche(C, Python)**  Utilitaire en C pour la complexité des mots dans différentes formes d'arbres  + analyse des performances avec Matplotlib.
+
+---
+
+## Soft Skills (Compétences Humaines)
+
+* Travail en équipe
+* Communication & écoute active
+* Organisation et rigueur
 
 ---
 
 ## 📫 Contact
 
-📧 **Email:** danny.mith21@gmail.com  
-📍 **Location:** Île-de-France, France  
+📧 **Email :** danny.mith21@gmail.com
+
+📍 **Localisation :** Île-de-France, France
 
 ---
 
-⭐️ *Feel free to explore my repositories and connect with me!*
+⭐️ *N'hésitez pas à explorer mes dépôts et à me contacter !*
